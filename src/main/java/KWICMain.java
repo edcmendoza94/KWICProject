@@ -1,6 +1,10 @@
 import java.io.File;
 
 public class KWICMain {
+    public static void main(String[] args) {
+
+    }
+
     public void readFile() {
 
     }
